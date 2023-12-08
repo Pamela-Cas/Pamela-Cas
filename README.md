@@ -30,4 +30,4 @@
 ### Atualmente sou Estudante na Trybe.
 ### Adoro aprender e ensinar e acredito em um futuro onde as pessoas tenham direitos igualitários e meu propósito de vida é impactar as pessoas de maneira positiva, tornando a experiência de vida mais agradável e melhor. 
 
-## Contato: pamcasatte@gmail.com
+## Contato: pxcx611@gmail.com
