@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BUrUnMG6RTS2KKpr2kKKpYw%3D%3D)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PamelaCP&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamela-Cas&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamelaCP&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
